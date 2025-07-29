@@ -1,8 +1,7 @@
-# cs-portfolio
-A collection of my personal and team projects showing my skills in game development, AI, and Python.
+# 🧠 Cristian's CS Portfolio
+Welcome! This a collection of my personal and team projects showing my skills in game development, AI, and Python.
 
-
-## Projects:
+## 📦 Projects:
 
 ### 🔢 15 Puzzle Solver (Python + A* Search)  
 Tile sliding puzzle solved using A* with Manhattan distance. 
