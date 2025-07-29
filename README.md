@@ -1,4 +1,4 @@
-# 🧠 Cristian's CS Portfolio
+# Cristian's CS Portfolio
 Welcome! This a collection of my personal and team projects showing my skills in game development, AI, and Python.
 
 ## 📦 Projects:
