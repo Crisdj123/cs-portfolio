@@ -9,5 +9,5 @@ Clean Python implementation and visual solution steps.
 [→ View project folder](./15-puzzle-ai)
 
 ### 🐍 Snake Game (Python + Pygame)
-A retro take on the classic Snake game using Pygame. I led a team of 5 and handled all the core programming.
+A retro take on the classic Snake game using Pygame. I led a team of 4 and handled all the core programming.
 [→ View project folder](./snake-game)
