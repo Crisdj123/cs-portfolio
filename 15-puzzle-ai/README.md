@@ -8,10 +8,11 @@ The 15 puzzle is a classic sliding puzzle that’s played on a 4x4 grid with 15 
 The goal is to slide the tiles into order from 1 to 15, with the blank tile at the bottom-right.
 
 ## Example Start Board
-  1 2 3 4
-  5 6 7 8
-  9 10 11 12
-  13 14 15 0
+<pre>1 2 3 4 
+5 6 7 8 
+9 10 11 12 
+13 14 15 0 
+</pre>
 
 ## 🚀 Features
 
