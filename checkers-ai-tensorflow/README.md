@@ -26,12 +26,21 @@ The model takes the board state as input and outputs a move. If no valid moves a
 
 ```bash
 checkers-ai-tensorflow/
-├── main.py           # Game loop and input/output
-├── board.py          # Board logic (rendering, checking valid moves)
-├── piece.py          # Piece class with movement rules
-├── ai.py             # AI move selection using TensorFlow
-├── model/            # TensorFlow model files (saved_model)
-└── README.md         # Project documentation
+├── checkers_ai.py      # AI logic, board setup, model training, and prediction
+│   ├── initial_board()       # Generates starting board
+│   ├── flatten_board()       # Flattens board for ML input
+│   ├── build_model()         # Builds TensorFlow model
+│   ├── train()               # Trains and saves the model
+│   └── predict_move()        # Outputs best move from model
+│
+├── play.py             # Main CLI game loop
+│   ├── render()               # Prints ASCII board with colors
+│   ├── player_move()          # Player input and rules
+│   ├── ai_move()              # AI move logic using model
+│   └── check_game_over()      # Detects end of game
+│
+├── model/              # Trained model folder (optional)
+    └── checkers_ai_model.h5   # Saved TensorFlow model
 ```
 
 ## 🛠 Usage
