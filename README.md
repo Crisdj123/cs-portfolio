@@ -3,6 +3,10 @@ Welcome! This a collection of my personal and team projects showing my skills in
 
 ## 📦 Projects:
 
+### 🤖 Checkers AI (Python + TensorFlow)  
+A two-player Checkers game where the user plays against an AI powered by a trained TensorFlow model. Includes king promotion, jump logic, and ASCII board rendering.  
+[→ View project folder](./checker-ai-tensorflow)
+
 ### 🔢 15 Puzzle Solver (Python + A* Search)  
 Tile sliding puzzle solved using A* with Manhattan distance. 
 Clean Python implementation and visual solution steps. 
