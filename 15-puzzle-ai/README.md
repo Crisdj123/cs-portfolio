@@ -7,7 +7,7 @@ This project is a Python implementation of the **15 Puzzle Solver** using the A*
 The 15 puzzle is a sliding tile game played on a 4x4 grid with 15 numbered tiles and one empty space (represented as `0` in this project).  
 The goal is to arrange the numbers in order from 1 to 15, with the blank tile in the bottom-right corner.
 
-## 🔁 Example Start and End Board
+## Example Start and End Board
 <pre>
 Start Board       |    End Board
 6   2   3   4     |    1   2   3   4
@@ -24,7 +24,7 @@ Start Board       |    End Board
 - Displays total move count and solve time
 - Adjustable difficulty by changing shuffle depth
 
-## 📁 File Structure
+## File Structure
 ```bash
 15puzzle-a-star/
 ├── solver.py              # Main puzzle solver using A* and Manhattan Distance
@@ -45,7 +45,7 @@ Start Board       |    End Board
 - **Cost (g)**: Number of moves taken so far.
 - **Total (f = g + h)**: This score decides which board gets explored next.
 
-## ▶️ How to Run
+## How to Run
 
 Make sure you’re using Python 3. Then just run:
 
