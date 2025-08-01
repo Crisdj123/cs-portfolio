@@ -4,37 +4,40 @@ This project is a Python implementation of the **15 Puzzle Solver** using the A*
 
 ## 📌 About the 15 Puzzle
 
-The 15 puzzle is a classic sliding puzzle that’s played on a 4x4 grid with 15 numbered tiles and one empty space ('0' in this code).  
-The goal is to slide the tiles into order from 1 to 15, with the blank tile at the bottom-right.
+The 15 puzzle is a sliding tile game played on a 4x4 grid with 15 numbered tiles and one empty space (represented as `0` in this project).  
+The goal is to arrange the numbers in order from 1 to 15, with the blank tile in the bottom-right corner.
 
-## Example Start Board
-<pre>1 2 3 4 
-5 6 7 8 
-9 10 11 12 
-13 14 15 0 
+## 🔁 Example Start and End Board
+<pre>
+Start Board       |    End Board
+6   2   3   4     |    1   2   3   4
+1   9  10   7     |    5   6   7   8
+13  5   0   8     |    9  10  11  12
+11 14  15  12     |    13 14  15   0
 </pre>
 
 ## 🚀 Features
 
-- Solves any valid 15-puzzle board using **A\*** search.
-- Uses the **Manhattan distance** to estimate how far each tile is from where it should be.
-- Prints each step of the solution in the terminal so you can follow along.
-- Tells you how many moves it took to solve.
+- Solves any valid (solvable) 15-puzzle board using A* search
+- Uses Manhattan distance as the heuristic for tile positioning
+- Prints each step of the solution in the terminal so you can follow along
+- Displays total move count and solve time
+- Adjustable difficulty by changing shuffle depth
 
 ## 📁 File Structure
-
+```bash
 15puzzle-a-star/
 ├── solver.py              # Main puzzle solver using A* and Manhattan Distance
     ├── Puzzle                  # Board class with methods for movement and state checking
     │   ├── heuristic()              # Manhattan distance cost function
-    ├── is_solved()             # Checks if the puzzle is complete
+    │   ├── is_solved()             # Checks if the puzzle is complete
     │   └── neighbors()             # Generates valid tile moves
     ├── solve()                # A* search algorithm to find optimal solution
     ├── generate_board()       # Scrambles the board by making N valid moves
     ├── reconstruct_path()     # Rebuilds solution path from end to start
     ├── print_board()          # Prints the board in 4x4 format
     └── is_solvable()          # (Not used, but checks solvability by inversion count)
-
+```
 
 ## 🧠 Algorithm Details
 
@@ -42,9 +45,9 @@ The goal is to slide the tiles into order from 1 to 15, with the blank tile at t
 - **Cost (g)**: Number of moves taken so far.
 - **Total (f = g + h)**: This score decides which board gets explored next.
 
-## 🔧 How to Run
+## ▶️ How to Run
 
 Make sure you’re using Python 3. Then just run:
 
 ```bash
-python solver.py
+python3 solver.py
