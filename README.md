@@ -2,19 +2,20 @@
 Welcome! This a collection of my personal and team projects showing my skills in game development, AI, and Python.
 
 ## 📌 About Me
-I'm a Computer Science major at Kennesaw State University, focused on game development and artificial intelligence. I enjoy building smart, interactive systems that combine logic, creativity, and user experience. My current work explores AI decision-making in classic games using Python, TensorFlow, and search algorithms.
+I'm a **Computer Science major** at Kennesaw State University, focused on game development and artificial intelligence. 
 
 I'm preparing to transfer to Georgia Tech, and this portfolio reflects both my growth and passion for building things that think.
-
 
 ## 📦 Projects:
 ### Checkers AI (Python + TensorFlow)  
 A two-player Checkers game where the user plays against an AI powered by a trained TensorFlow model. Includes king promotion, jump logic, and ASCII board rendering. [→ View project folder](./checkers-ai-tensorflow)
 
+
 ### 15 Puzzle Solver (Python + A* Search)  
 Tile sliding puzzle solved using A* with Manhattan distance. 
 Clean Python implementation and visual solution steps. 
 [→ View project folder](./15-puzzle-ai)
+
 
 ### Snake Game (Python + Pygame)
 A retro take on the classic Snake game using Pygame. I led a team of 4 and handled all the core programming.
