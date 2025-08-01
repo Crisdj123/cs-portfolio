@@ -23,11 +23,18 @@ The goal is to slide the tiles into order from 1 to 15, with the blank tile at t
 
 ## 📁 File Structure
 
-- `solver.py` – Main file that includes:
-  - The `Puzzle` class
-  - The A\* search logic in `solve()`
-  - The path reconstruction function
-  - A helper to print the board nicely
+15puzzle-a-star/
+├── solver.py              # Main puzzle solver using A* and Manhattan Distance
+    ├── Puzzle                  # Board class with methods for movement and state checking
+    │   ├── heuristic()              # Manhattan distance cost function
+    ├── is_solved()             # Checks if the puzzle is complete
+    │   └── neighbors()             # Generates valid tile moves
+    ├── solve()                # A* search algorithm to find optimal solution
+    ├── generate_board()       # Scrambles the board by making N valid moves
+    ├── reconstruct_path()     # Rebuilds solution path from end to start
+    ├── print_board()          # Prints the board in 4x4 format
+    └── is_solvable()          # (Not used, but checks solvability by inversion count)
+
 
 ## 🧠 Algorithm Details
 
