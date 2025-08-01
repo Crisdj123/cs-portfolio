@@ -191,4 +191,3 @@ if __name__ == "__main__":
         print("No solution found.")  # could happen if timeout triggers
 
     print(f"Took {duration:.2f} seconds.")
-
