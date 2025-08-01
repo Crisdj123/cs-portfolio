@@ -4,7 +4,7 @@ Welcome! This a collection of my personal and team projects showing my skills in
 ## 📌 About Me
 I'm a **Computer Science major** at Kennesaw State University, focused on game development and artificial intelligence. 
 
-I'm preparing to transfer to Georgia Tech, and this portfolio reflects both my growth and passion for building things that think.
+I'm preparing to transfer to Georgia Tech, and this portfolio reflects both my growth and passion for building things I love.
 
 ## 📦 Projects:
 ### Checkers AI (Python + TensorFlow)  
