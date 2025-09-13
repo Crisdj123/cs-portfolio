@@ -43,4 +43,7 @@ The grid updates in real time, and the longer you survive, the more challenging 
 CSE1321 Final Project @ Kennesaw State University (Fall 2024)
 
 ## Full Source Code
-- [Snake.py](Snake.py)
+## 📂 Source Files
+- [snake.py](snake.py) — Main game (loop, input, collisions, scoring, high score)
+- [Score.txt](Score.txt) — High score storage (auto-created/updated)
+- [assets/](assets/) — (optional) music/sfx if added later
