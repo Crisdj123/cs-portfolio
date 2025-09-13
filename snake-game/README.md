@@ -34,6 +34,7 @@ The grid updates in real time, and the longer you survive, the more challenging 
 CSE1321 Final Project @ Kennesaw State University (Fall 2024)
 
 ## Full Source Code
+```bash
 import pygame, sys, random
 pygame.init()
 
@@ -250,4 +251,4 @@ while True:
 
     # Update the display
     pygame.display.flip()
-
+```bash
