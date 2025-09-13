@@ -1,6 +1,6 @@
 # 🐍 Pygame Snake Game
 
-A retro version of Snake built using Python and Pygame. Created as a group project with 4 students — 
+A retro version of Snake built using Python and Pygame. Created as a 3-person group project — 
 I served as the **lead programmer**, responsible for the main game logic, collision, and scoring.
 
 ## 📌 About the Game
@@ -20,6 +20,15 @@ The grid updates in real time, and the longer you survive, the more challenging 
 - Clean 10x10 grid visualized using lines
 - Restart and quit functionality after game over
 
+## 🎮 Controls
+
+- Arrow Keys or W, A, S, D — Move Up/Down/Left/Right
+
+- R — Restart after Game Over
+
+- Q — Quit after Game Over
+
+- Esc / Window Close — Exit game
 
 ## How to Run
 1. Install Python 3 and Pygame:
