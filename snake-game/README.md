@@ -119,7 +119,7 @@ while True:
             pygame.quit()
             sys.exit(0)
 
-    # Control the movement of the green square at intervals determined by the speed
+    # Cristian: Control the movement of the green square at intervals determined by the speed
     if counter % (speed + 1) == 0:
         # Cristian: Move each piece of snake (Allows fluid movement)
         for i in range(len(snakeRects) - 1, 0, -1):
@@ -138,7 +138,7 @@ while True:
         score += 4  # Increase score when getting an apple
         print(score)
 
-        # Add 4 pieces to the snake without overlapping
+        # Cristian: Add 4 pieces to the snake without overlapping
         for i in range(4):
             # Set new segment position based on the last segment and the current direction
             last_rect = snakeRects[-1]
@@ -157,7 +157,7 @@ while True:
             new_surf.fill(green)
             snakeSurfs.append(new_surf)
 
-    # Get key input and change direction/movement based on arrow keys
+    # Cristian: Get key input and change direction/movement based on arrow keys
     keys = pygame.key.get_pressed()
     if keys[pygame.K_UP] and direction != 'Down':  # Prevent moving up when going down
         direction = 'Up'
@@ -251,4 +251,3 @@ while True:
 
     # Update the display
     pygame.display.flip()
-```bash
