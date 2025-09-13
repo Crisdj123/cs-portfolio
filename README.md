@@ -22,5 +22,4 @@ A retro take on the classic Snake game using Pygame. I led a team of 4 and handl
 [→ View project folder](./snake-game)
 
 ## 📫 Contact Me
-- **Email:** [crisjimenez445@gmail.com](mailto:crisjimenez445@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/cristian-jimenez-0a1213366](https://www.linkedin.com/in/cristian-jimenez-0a1213366)
+- **Email:** [crisjimenez445@gmail.com](mailto:crisjimenez445@gmail.com)
