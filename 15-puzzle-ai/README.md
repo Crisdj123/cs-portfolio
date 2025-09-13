@@ -59,6 +59,6 @@ Make sure you’re using Python 3. Then just run:
 ```bash
 python3 solver.py
 ```
-## Full Source Code
+## Source Files
 - [solver.py](solver.py) — A* solver with Manhattan distance  
 - [data.py](data.py) — Dataset generator for training (creates `train_data.csv`)  
