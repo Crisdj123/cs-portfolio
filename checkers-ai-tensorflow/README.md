@@ -21,6 +21,9 @@ The AI can move, capture, and promote to king based on learned behavior or simpl
 The AI selects moves using a TensorFlow model that was trained on past gameplay data or hardcoded rules. 
 The model takes the board state as input and outputs a move. If no valid moves are available, the AI forfeits.
 
+##Example Start and End Board
+
+
 
 ## 🧩 Project Structure
 
