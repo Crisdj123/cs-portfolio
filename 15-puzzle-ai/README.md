@@ -2,7 +2,7 @@
 
 This project is a Python implementation of the **15 Puzzle Solver** using the A* search algorithm with the **Manhattan distance heuristic**.
 
-## 📌 About the 15 Puzzle
+## About the 15 Puzzle
 
 The 15 puzzle is a sliding tile game played on a 4x4 grid with 15 numbered tiles and one empty space (represented as `0` in this project).  
 The goal is to arrange the numbers in order from 1 to 15, with the blank tile in the bottom-right corner.
@@ -16,7 +16,7 @@ Start Board       |    End Board
 11 14  15  12     |    13 14  15   0
 </pre>
 
-## 🚀 Features
+## Features
 
 - Solves any valid (solvable) 15-puzzle board using A* search
 - Uses Manhattan distance as the heuristic for tile positioning
@@ -46,7 +46,7 @@ Start Board       |    End Board
 └── train_data.csv         # Auto-generated dataset: 16 board positions + 1 move label
 ```
 
-## 🧠 Algorithm Details
+## Algorithm Details
 
 - **Heuristic (h)**: Sum of Manhattan distances between each tile and its goal spot.
 - **Cost (g)**: Number of moves taken so far.
