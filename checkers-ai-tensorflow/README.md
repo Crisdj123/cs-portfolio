@@ -39,5 +39,5 @@ checkers-ai-tensorflow/
 ```
 
 ## Source Files
-- [checkers_ai.py](checkers_ai.py) — 
-- [play.py](play.py) —
+- [checkers_ai.py](checkers_ai.py) — Handles TensorFlow model creation and training, generates the initial 8x8 checkers board setup, and provides AI move prediction functionality.
+- [play.py](play.py) — Handles TensorFlow model creation and training, generates the initial 8x8 checkers board setup, and provides AI move prediction functionality.
