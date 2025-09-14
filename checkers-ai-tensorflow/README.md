@@ -36,3 +36,8 @@ checkers-ai-tensorflow/
 │
 ├── model/              # Trained model folder (optional)
     └── checkers_ai_model.h5   # Saved TensorFlow model
+```
+
+## Source Files
+- [checkers_ai.py](checkers_ai.py) — 
+- [play.py](play.py) —
