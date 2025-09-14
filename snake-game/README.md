@@ -3,14 +3,14 @@
 A retro version of Snake built using Python and Pygame. Created as a 3-person group project — 
 I served as the **lead programmer**, responsible for the main game logic, collision, and scoring.
 
-## 📌 About the Game
+## About the Game
 
 The goal of the game is simple: control the snake using the arrow keys, collect apples (red squares), and avoid colliding with yourself or the walls.  
 Each apple increases your score and adds length to the snake. The game keeps track of your high score using a local save file.
 
 The grid updates in real time, and the longer you survive, the more challenging it becomes to avoid yourself.
 
-## 🚀 Features
+## Features
 
 - Real-time movement and smooth snake growth
 - Collision detection for both self and boundaries
@@ -20,7 +20,7 @@ The grid updates in real time, and the longer you survive, the more challenging 
 - Clean 10x10 grid visualized using lines
 - Restart and quit functionality after game over
 
-## 🎮 Controls
+## Controls
 
 - Arrow Keys or W, A, S, D — Move Up/Down/Left/Right
 
