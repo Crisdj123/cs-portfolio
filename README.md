@@ -1,12 +1,11 @@
-# Cristian's CS Portfolio
-Welcome! This a collection of my personal and team projects showing my skills in game development, AI, and Python.
+# Cristian Jimenez - Computer Science & Data Portfolio
+Welcome!
+This portfolio highlights my work as a Computer Science student at Georgia Tech, with a focus on data analytics and data engineering.
 
-## 📌 About Me
-I'm a **Computer Science major** at Kennesaw State University, focused on game development and artificial intelligence. 
+## About Me
+My background in computer science gives me a strong foundation in problem-solving and logic, which I apply to data-focused work such as querying, organizing datasets, and using data to support better decisions.
 
-I'm preparing to transfer to Georgia Tech, and this portfolio reflects both my growth and passion for building things I love.
-
-## 📦 Projects:
+## Projects:
 ### Checkers AI (Python + TensorFlow)  
 A two-player Checkers game where the user plays against an AI powered by a trained TensorFlow model. Includes king promotion, jump logic, and ASCII board rendering. [→ View project folder](./checkers-ai-tensorflow)
 
@@ -22,5 +21,6 @@ A retro take on the classic Snake game using Pygame. I led a team of 4 and handl
 [→ View project folder](./snake-game)
 
 ## 📫 Contact Me
-- **Email:** [crisjimenez445@gmail.com](mailto:crisjimenez445@gmail.com)
-- **LinkedIn:** [Computer Science at Georgia Tech](https://www.linkedin.com/in/cristian-jimenez-0a1213366?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLmO7IFZURJ6Q5Zr%2FyF%2FNkw%3D%3D)
+- **Email (School):** [cjimenez47@gatech.edu](mailto:cjimenez47@gatech.edu)
+- **Email (Personal):** [crisdj164@gmail.com](mailto:crisdj164@gmail.com)
+- **LinkedIn:** [Cristian Jimenez](https://www.linkedin.com/in/cristian-jimenez-0a1213366?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLmO7IFZURJ6Q5Zr%2FyF%2FNkw%3D%3D)
