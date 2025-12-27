@@ -20,7 +20,7 @@ Clean Python implementation and visual solution steps.
 A retro take on the classic Snake game using Pygame. I led a team of 4 and handled all the core programming.
 [→ View project folder](./snake-game)
 
-## 📫 Contact Me
+## Contact Me
 - **Email (School):** [cjimenez47@gatech.edu](mailto:cjimenez47@gatech.edu)
 - **Email (Personal):** [crisdj164@gmail.com](mailto:crisdj164@gmail.com)
 - **LinkedIn:** [Cristian Jimenez](https://www.linkedin.com/in/cristian-jimenez-0a1213366?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLmO7IFZURJ6Q5Zr%2FyF%2FNkw%3D%3D)
