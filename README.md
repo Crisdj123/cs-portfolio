@@ -3,7 +3,7 @@ Welcome!
 This portfolio highlights my work as a Computer Science student at Georgia Tech, with a focus on data analytics and data engineering.
 
 ## About Me
-My background in computer science gives me a strong foundation in problem-solving and logic, which I apply to data-focused work such as querying, organizing datasets, and using data to support better decisions.
+My background in computer science gives me a strong foundation in programming and problem-solving, which I apply to data-focused work such as querying, organizing datasets, and using data to support better decisions.
 
 ## Projects:
 ### Checkers AI (Python + TensorFlow)  
