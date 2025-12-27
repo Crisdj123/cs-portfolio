@@ -6,9 +6,6 @@ This portfolio highlights my work as a Computer Science student at Georgia Tech,
 My background in computer science gives me a strong foundation in programming and problem-solving, which I apply to data-focused work such as querying, organizing datasets, and using data to support better decisions.
 
 ## Projects:
-### Checkers AI (Python + TensorFlow)  
-A two-player Checkers game where the user plays against an AI powered by a trained TensorFlow model. Includes king promotion, jump logic, and ASCII board rendering. [→ View project folder](./checkers-ai-tensorflow)
-
 
 ### 15 Puzzle Solver (Python + A* Search)  
 Tile sliding puzzle solved using A* with Manhattan distance. 
