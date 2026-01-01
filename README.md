@@ -7,10 +7,10 @@ My background in computer science gives me a strong foundation in programming an
 
 ## Projects:
 
-### 15 Puzzle Solver (Python + A* Search)  
-Tile sliding puzzle solved using A* with Manhattan distance. 
-Clean Python implementation and visual solution steps. 
-[→ View project folder](./15-puzzle-ai)
+### IMDb Data Analysis Project (SQL + PostgreSQL)
+Designed and queried a relational database using real-world IMDb datasets.
+Performed SQL analysis using JOINs, aggregations, and filters to explore ratings, genres, and trends over time.
+[→ View project folder](./imdb-data-analysis)
 
 
 ### Snake Game (Python + Pygame)
