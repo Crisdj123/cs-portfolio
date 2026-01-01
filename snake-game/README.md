@@ -1,4 +1,4 @@
-# 🐍 Pygame Snake Game
+# Pygame Snake Game
 
 A retro version of Snake built using Python and Pygame. Created as a 3-person group project — 
 I served as the **lead programmer**, responsible for the main game logic, collision, and scoring.
