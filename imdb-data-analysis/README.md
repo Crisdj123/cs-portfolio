@@ -1,17 +1,19 @@
 # IMDb Data Analysis
 
-## Overview
-This project analyzes IMDb datasets using SQL to explore trends in movie ratings, genres, and film characteristics.
+This project analyzes IMDb data using SQL and PostgreSQL to explore ratings, genres, title types, runtime, and actor appearances.
 
 ## Tools
-- PostgreSQL
 - SQL
-
-## Key Questions
-- What are the highest-rated movies with significant votes?
-- Which genres have the highest average ratings?
-- How do ratings change over time?
+- PostgreSQL
+- DataGrip
 
 ## Files
-- schema.sql → database structure
-- queries.sql → analysis queries
+- `schema.sql` - creates the database tables
+- `queries.sql` - contains analysis queries
+
+## Questions Explored
+- Which titles have the highest ratings with strong vote counts?
+- Which genres have the highest average ratings?
+- How do ratings vary by title type and year?
+- How does runtime relate to ratings?
+- Which actors appear most often in highly rated titles?
