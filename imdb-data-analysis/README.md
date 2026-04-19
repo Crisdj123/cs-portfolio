@@ -23,3 +23,9 @@ This project analyzes IMDb data using SQL and PostgreSQL to explore ratings, gen
 ![Runtime vs Rating](runtime_vs_rating.png)
 
 Longer movies tend to have slightly higher average ratings compared to shorter films.
+
+## Genre Analysis
+
+![Genre Analysis](genre_analysis.png)
+
+Certain genres consistently receive higher average ratings, especially those with strong audience engagement and higher vote counts.
