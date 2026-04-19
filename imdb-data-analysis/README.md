@@ -17,3 +17,9 @@ This project analyzes IMDb data using SQL and PostgreSQL to explore ratings, gen
 - How do ratings vary by title type and year?
 - How does runtime relate to ratings?
 - Which actors appear most often in highly rated titles?
+
+## Runtime vs Rating
+
+![Runtime vs Rating](results/runtime_vs_rating.png)
+
+Longer movies tend to have slightly higher average ratings compared to shorter films.
