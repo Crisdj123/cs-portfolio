@@ -20,7 +20,7 @@ This project analyzes IMDb data using SQL and PostgreSQL to explore ratings, gen
 
 ## Runtime vs Rating
 
-It seems like longer movies tend to have higher average ratings, possibly because they give viewers more time to become immersed in the story.
+It seems like longer movies tend to have higher average ratings, possibly because it give viewers more time to become immersed in the story.
 
 ![Runtime vs Rating](runtime_vs_rating.png)
 
@@ -33,4 +33,5 @@ I found it interesting that certain genres had consistently higher ratings. I wa
 ## Actor Performance Analysis
 
 Manipulated the data to find well-known actors based on their number of appearances and compare their average ratings.
+
 ![Actor Analysis](actor_analysis.png)
