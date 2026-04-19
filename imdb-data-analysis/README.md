@@ -29,3 +29,9 @@ Longer movies tend to have slightly higher average ratings compared to shorter f
 ![Genre Analysis](genre_analysis.png)
 
 Certain genres consistently receive higher average ratings, especially those with strong audience engagement and higher vote counts.
+
+## Actor Performance Analysis
+
+![Actor Analysis](actor_analysis.png)
+
+Actors who appear in multiple high-vote movies tend to consistently be part of well-received films. This highlights performers who frequently contribute to successful, widely watched projects.
