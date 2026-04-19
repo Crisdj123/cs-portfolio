@@ -1,6 +1,6 @@
 # Cristian Jimenez - Computer Science & Data Portfolio
 Welcome!
-This portfolio highlights my work as a Computer Science student at Georgia Tech, with a focus on data analytics and data engineering.
+This portfolio highlights my work as a Computer Science student at Georgia Tech, with a focus on analytics and data science.
 
 ## About Me
 My background in computer science gives me a strong foundation in programming and problem-solving, which I apply to data-focused work such as querying, organizing datasets, and using data to support better decisions.
