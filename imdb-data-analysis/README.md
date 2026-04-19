@@ -20,6 +20,6 @@ This project analyzes IMDb data using SQL and PostgreSQL to explore ratings, gen
 
 ## Runtime vs Rating
 
-![Runtime vs Rating](results/runtime_vs_rating.png)
+![Runtime vs Rating](runtime_vs_rating.png)
 
 Longer movies tend to have slightly higher average ratings compared to shorter films.
